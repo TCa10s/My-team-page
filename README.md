@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">My team page</h1>
 
 <div align="center">
@@ -36,7 +34,15 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/My-team-page/Main/img/My%20team%20page.png)
+<h3>Mobile desing:</h3>
+
+![screenshot](https://raw.githubusercontent.com/TCa10s/My-team-page/Main/img/my_team_page_mobile.jpeg)
+
+
+<h3>Desktop desing:</h3>
+
+![screenshot](https://raw.githubusercontent.com/TCa10s/My-team-page/Main/img/my_team_page_desktop.jpeg)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

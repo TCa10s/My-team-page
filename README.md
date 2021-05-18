@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://tca10s.github.io/My-team-page/">
+    <a href="https://tca10s.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://tca10s.github.io/My-team-page/">
+    <a href="https://tca10s.github.io/my-team-page/">
       Solution
     </a>
     <span> | </span>

@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://tca10s.github.io/my-team-page/">
+    <a href="https://tcar10s.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://tca10s.github.io/my-team-page/">
+    <a href="https://tcar10s.github.io/my-team-page/">
       Solution
     </a>
     <span> | </span>
@@ -76,5 +76,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [www.tutoscarlos.xyz](https://www.tutoscarlos.xyz)
-- GitHub [@TCa10s](https://https://github.com/TCa10s)
+- GitHub [@TCa10s](https://https://github.com/TCar10s)
 - Twitter [@Tutos_Carlos11](https://twitter.com/Tutos_Carlos11)
